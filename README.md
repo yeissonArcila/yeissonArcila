@@ -1,5 +1,6 @@
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="">
+
 <h1 align="center">Hi 👋, I'm Yeisson Arcila</h1>
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="">
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeissonarcila&label=Profile%20views&color=0e75b6&style=flat" alt="yeissonarcila" /> </p>
